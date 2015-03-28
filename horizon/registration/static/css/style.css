@@ -1,0 +1,217 @@
+.page-content {
+
+  width: 800;
+
+  margin-left: auto;
+
+  margin-right: auto;
+
+}
+
+
+
+.title {
+
+  position: absolute;
+
+  top: -40px;
+
+  left: 40px;
+
+  background-color: #fff;
+
+  padding: 0 10px 0 10px;
+
+  font-weight: normal;
+
+}
+
+
+
+.content-wapper {
+
+ -webkit-border-radius: 5px;
+
+  border-radius: 5px;
+
+  border: 3px solid #999;
+
+  position: relative;
+
+  padding: 50px 50px 100px 50px;
+
+}
+
+
+
+.main-content {
+
+  width: 940px;
+
+  margin-left: auto;
+
+  margin-right: auto;
+
+  margin-top: 20px;
+
+
+
+}
+
+
+
+.form-control {
+
+	width: 60%;
+
+	margin-left: auto;
+
+	margin-right: auto;
+
+	border: 2px solid #ccc;
+
+}
+
+
+
+.left {
+
+	float: left;
+
+}
+
+
+
+.right {
+
+	margin-top: 15px;
+
+	clear: right;
+
+	float: right;
+
+}
+
+.margin-top-15 {
+
+	margin-top: 15px;
+
+}
+
+
+
+.hr {
+
+  border-bottom: 1px solid #ddd;
+
+  border-top: 0;
+
+  background-color: transparent;
+
+  display: block;
+
+  height: 1px;
+
+  border-width: 0;
+
+  border-top: 3px solid #e7e7e7;
+
+  line-height: 19px;
+
+  margin-top: 0;
+
+  margin-bottom: 14px;
+
+  display: block;
+
+}
+
+
+
+.form-control {
+
+  width: 80%;
+
+  margin-bottom: 17px;
+
+}
+
+
+
+.a-button-text {
+
+    text-align: -webkit-center;
+
+  font-size: 13px;
+
+  line-height: 29px;
+
+  display: block;
+
+  font-family: Arial,sans-serif;
+
+  white-space: nowrap;
+
+  background-color: transparent;
+
+  margin: 0;
+
+  border: 0;
+
+  outline: 0;
+
+  padding: 0 10px 0 11px;
+
+}
+
+
+
+button {
+
+  width: 85%;
+
+  margin-left: 32px;
+
+  margin-top: 15px;
+
+}
+
+
+
+form {
+
+  margin-top: 75px;
+
+}
+
+
+
+.help-block {
+
+  display: block;
+
+  margin-top: 5px;
+
+  margin-bottom: 10px;
+
+  color: #b94a48;
+
+}
+
+
+
+p#msg {
+
+  text-align: -webkit-center;
+
+  color: green;
+
+  font-family: cursive;
+
+  font-size: large;
+
+  font-style: italic;
+
+  font-weight: bold;
+
+}
